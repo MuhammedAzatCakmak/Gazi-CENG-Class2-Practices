@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Deneme_Dosyasi/Deneme_Dosyasi.iml" filepath="$PROJECT_DIR$/Deneme_Dosyasi/Deneme_Dosyasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta2_Uygulamalar/Hafta2_Uygulamalar.iml" filepath="$PROJECT_DIR$/Hafta2_Uygulamalar/Hafta2_Uygulamalar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta3_Uygulamalar/Hafta3_Uygulamalar.iml" filepath="$PROJECT_DIR$/Hafta3_Uygulamalar/Hafta3_Uygulamalar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ödev Projeler.iml" filepath="$PROJECT_DIR$/.idea/Ödev Projeler.iml" />
+    </modules>
+  </component>
+</project>
